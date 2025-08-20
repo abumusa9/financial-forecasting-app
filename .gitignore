@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual envs
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+
+# AWS CLI junk
+aws/
+awscliv2.zip
+
+# Keys and sensitive files
+*.pem
+*.key
+*.crt
+
+# Docker
+*.log
