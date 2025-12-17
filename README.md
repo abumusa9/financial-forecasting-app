@@ -1,7 +1,6 @@
 ## Financial Forecasting LSTM Web Application
 
 ### Project Demo Video
-
 Click the link to watch the full demo -->
 [Financial Forecasting Dashboard Demo](https://abumusalab.com.ng/financial-forecasting-app/)
 
