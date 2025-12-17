@@ -3,7 +3,7 @@
 ### Project Demo Video
 
 Click the link to watch the full demo -->
-[Object Detection Demo](https://abumusalab.com.ng/financial-forecasting-app/index.html/)
+[Object Detection Demo](https://abumusalab.com.ng/financial-forecasting-app/)
 
 
 **Project Overview**
